@@ -1,4 +1,4 @@
 instructor
-Student A
-Student B
+Student name : chaudhary yash
+Student roll no:8
 
